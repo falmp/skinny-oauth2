@@ -1,0 +1,7 @@
+<%@val s: skinny.Skinny %>
+<h3>Skinny OAuth 2.0</h3>
+<hr/>
+<p>
+This is a OAuth 2.0 test using Skinny Framework. Click <a href="${s.url(Controllers.root.securedUrl)}">here</a> to access a secured area.
+</p>
+
